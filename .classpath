@@ -5,7 +5,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="Task-1/|Task-1/" kind="src" path="src"/>
+	<classpathentry excluding="Task-1/|Task-1/|Banking-Application/|Banking-Application/" kind="src" path="src"/>
 	<classpathentry kind="src" path="src/Task-1"/>
+	<classpathentry kind="src" path="src/Banking-Application"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
